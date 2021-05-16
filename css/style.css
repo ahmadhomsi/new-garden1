@@ -1,0 +1,36 @@
+
+h1 {
+    padding: 60px;
+  text-align: center;
+  background: #71c7ec;
+  color: white;
+  font-size: 30px;
+  /* font-family: 'Roboto Condensed', sans-serif; */
+}
+form input {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    color: #107dac;
+}
+
+#img {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+fieldset{
+    padding: 10%;
+    margin:10px 0;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#107dac;
+    color: white;
+    text-align: center;
+}
